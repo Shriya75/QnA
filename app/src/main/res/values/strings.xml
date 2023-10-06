@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- android_large___1 strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="we_understand_being_a_farmer_is_not_easy_string">We understand being a farmer is not easy</string>
+	<string name="know_all_the_government_schemes_available_string">Know all the government schemes available</string>
+</resources>
