@@ -6,4 +6,25 @@
 	<string name="ek_img_content">ExportKit Image</string>
 	<string name="we_understand_being_a_farmer_is_not_easy_string">We understand being a farmer is not easy</string>
 	<string name="know_all_the_government_schemes_available_string">Know all the government schemes available</string>
+	<string name="For_animal">For animal husbandry &amp; dairying as well</string>
+	<string name="_1_42_string">1:42</string>
+	<string name="greetings_____string">Greetings! </string>
+	<string name="____input_text_string">Type your name</string>
+	<string name="upload_your_picture_string">Upload your picture</string>
+	<string name="____input_text_ek1_string">Gender</string>
+	<string name="profile_string">Profile</string>
+	<string name="____input_text_string1">Kum</string>
+	<string name="____label_string">Name</string>
+	<string name="ulavan_string">Ulavan</string>
+
+	<string name="most_asked_water_questions_string">Most asked water questions</string>
+	<string name="what_is_sprinkler_irrigation_system__string">What is sprinkler irrigation system?</string>
+	<string name="how_does_surface_irrigation_works__string">How does surface irrigation works?</string>
+	<string name="do_you_like_it__string">WEDNESDAY</string>
+	<string name="search_previous_questions_string">Search previous questions</string>
+
+	<string name="history_string">History</string>
+	<string name="do_you_like_it__string1">Yesterday</string>
+	<string name="what_are_the_government_schemes_for_farme____string">What are the government schemes for farme...</string>
+	<string name="here_some_of_the_government_schemes_for_farmers_in_tamil_nadu__agriculture___farmers_welfare_schemes____string">Here some of the government schemes for farmers in Tamil Nadu. Agriculture  Farmers Welfare schemes...</string>
 </resources>
