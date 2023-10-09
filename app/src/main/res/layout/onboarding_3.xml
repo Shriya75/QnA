@@ -1,0 +1,110 @@
+<HorizontalScrollView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent" android:layout_height="wrap_content" >
+
+	<ScrollView android:id="@+id/bg_img2_1"
+		android:layout_width="wrap_content"
+		android:layout_height="match_parent" >
+
+		<RelativeLayout android:id="@+id/content_container"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content" >
+
+
+
+			<RelativeLayout android:id="@+id/page_bg_img2_1_ek1"
+				android:layout_marginTop="0dp"
+				android:layout_marginStart="0dp"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				>
+
+				<View   android:id="@+id/_bg__bg_img2_1_ek2"
+					android:background="@drawable/_bg__bg_img2_1_ek2_shape"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content" />
+
+
+				<ImageView
+					android:id="@+id/page2img"
+					android:layout_width="match_parent"
+					android:layout_height="544dp"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp"
+					android:contentDescription="mask_group"
+					android:src="@drawable/anmol_kerketta__qroaxkjqma_unsplash__1__1" />
+
+				<RelativeLayout
+					android:id="@+id/frame_2"
+					android:layout_width="match_parent"
+					android:layout_height="342dp"
+					android:layout_below="@+id/page2img"
+					android:layout_marginStart="0dp"
+					android:layout_marginTop="0dp">
+
+					<View
+						android:id="@+id/_bg__frame_2_ek1"
+						android:layout_width="wrap_content"
+						android:layout_height="276dp"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="0dp"
+						android:background="@drawable/_bg__frame_2_ek1_shape" />
+
+					<ImageView
+						android:id="@+id/frame_3"
+						android:layout_width="match_parent"
+						android:layout_height="316dp"
+						android:layout_marginStart="0dp"
+						android:layout_marginTop="20dp"
+						android:contentDescription="frame_3"
+						android:src="@drawable/frame_3" />
+
+					<TextView
+						android:id="@+id/know_all_the_government_schemes_available"
+						android:layout_width="351.4dp"
+						android:layout_height="57.4dp"
+						android:layout_marginLeft="14dp"
+						android:layout_marginTop="20dp"
+						android:text="@string/For_animal"
+						android:textColor="@color/know_all_the_government_schemes_available_color"
+						android:textSize="24sp"
+						android:textStyle="bold" />
+
+					<!-- "Skip" button -->
+
+					<Button
+						android:id="@+id/ContinueButton"
+						android:layout_width="322dp"
+						android:layout_height="wrap_content"
+						android:layout_below="@+id/know_all_the_government_schemes_available"
+						android:layout_marginLeft="10dp"
+						android:layout_marginTop="68dp"
+						android:background="@drawable/button_bg_get_started"
+						android:text="Continue"
+						android:textColor="@color/_bg__frame_2_ek1_color"
+						android:textStyle="bold" />
+
+					<Button
+						android:id="@+id/skipButton"
+						android:layout_width="wrap_content"
+						android:layout_height="34dp"
+						android:layout_below="@id/ContinueButton"
+						android:layout_marginStart="105dp"
+						android:layout_marginLeft="130dp"
+						android:layout_marginTop="14dp"
+						android:layout_marginEnd="105dp"
+						android:layout_marginBottom="105dp"
+						android:background="@drawable/button_bg_skip"
+						android:text="Skip"
+						android:textColor="@color/_bg__android_large___1_ek2_color"
+						android:textStyle="bold" />
+
+
+				</RelativeLayout>
+
+			</RelativeLayout>
+		</RelativeLayout>
+
+	</ScrollView>
+</HorizontalScrollView>
